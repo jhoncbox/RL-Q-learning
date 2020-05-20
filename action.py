@@ -7,7 +7,7 @@ Action Selection Module
 """
 # for this modules we import the functions from the Motors file
 from motors import goForward, goLeft, goRight
-#random library 
+#random library
 import random
 
 #this functions select an action randomly when the agent choose to explore the environment
